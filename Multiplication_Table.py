@@ -1,5 +1,5 @@
 '''
-Write a program to print Multiplication Tables from 1 to 2
+Write a program to print Multiplication Tables
 
                                                                                   
 
